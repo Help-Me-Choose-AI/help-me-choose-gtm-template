@@ -1,0 +1,5 @@
+homepage: "https://helpmechoose.ai"
+documentation: "https://app.helpmechoose.ai/docs/getting-quiz-live"
+versions:
+  - sha: c4d6a690ca0bff1c0c167a0bb4cfc7d191fed0ef
+    changeNotes: Initial release.
