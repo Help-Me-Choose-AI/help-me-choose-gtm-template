@@ -8,8 +8,14 @@ website through Google Tag Manager, without a Custom HTML tag.
 1. In Help Me Choose, open **Live URLs** and copy your project ID. It is the
    part after `hmc:` in the quiz tag snippet, and the part of the page address
    between `/organizations/` and `/live-urls`.
-2. In Google Tag Manager, go to **Tags → New → Tag Configuration**, search the
-   Community Template Gallery for **Help Me Choose AI**, and add it.
+2. Add the template to your GTM container:
+   - **From the Community Template Gallery:** go to **Tags → New → Tag
+     Configuration**, search for **Help Me Choose AI**, and add it.
+   - **Or import it yourself:** download
+     [template.tpl](https://github.com/alryrie/help-me-choose-gtm-template/releases/latest/download/template.tpl),
+     then go to **Templates → Tag Templates → New**, open the **⋮** menu,
+     choose **Import**, select the file and click **Save**. Then create a
+     new tag from it under **Tags → New → Tag Configuration**.
 3. Paste your project ID into **Project ID**.
 4. Set the trigger to **All Pages** (or **Initialization – All Pages**).
 5. Preview, then publish the container.
