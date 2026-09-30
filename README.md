@@ -12,7 +12,7 @@ website through Google Tag Manager, without a Custom HTML tag.
    - **From the Community Template Gallery:** go to **Tags → New → Tag
      Configuration**, search for **Help Me Choose AI**, and add it.
    - **Or import it yourself:** download
-     [template.tpl](https://github.com/alryrie/help-me-choose-gtm-template/releases/latest/download/template.tpl),
+     [template.tpl](https://github.com/Help-Me-Choose-AI/help-me-choose-gtm-template/releases/latest/download/template.tpl),
      then go to **Templates → Tag Templates → New**, open the **⋮** menu,
      choose **Import**, select the file and click **Save**. Then create a
      new tag from it under **Tags → New → Tag Configuration**.
